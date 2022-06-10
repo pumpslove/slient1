@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/pumpslove/Slient-Aim/main/slient
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pumpslove/Slient-Aim/main/slient"))()
